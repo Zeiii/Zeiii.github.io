@@ -189,7 +189,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: Sidebar
+      layout: "Sidebar"
       sharing: false
       license: false
       aside:
