@@ -105,7 +105,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gittalk # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: 'gittalk' # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
